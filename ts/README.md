@@ -49,6 +49,6 @@ npm run build   # tsc -> dist/
 
 Prompt-too-long recovery, media-too-large recovery, and bounded
 truncation recovery are real and tested, with default classifiers for
-common Anthropic/OpenAI-shaped errors. Not yet published to npm — the
-bare `reflow` name has unrelated squats on both registries, so this
-package publishes as `reflowkit` instead.
+common Anthropic/OpenAI-shaped errors. Published as
+[`reflowkit`](https://www.npmjs.com/package/reflowkit) on npm — the bare
+`reflow` name has unrelated squats on both registries.

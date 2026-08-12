@@ -20,7 +20,9 @@ model API call.
 
 > **Status: v1, in progress.** Prompt-too-long recovery, media-too-large
 > recovery, and bounded truncation recovery all work end-to-end (see
-> `ts/README.md`). Not yet published.
+> `ts/README.md`). Published as `reflowkit`:
+> [PyPI](https://pypi.org/project/reflowkit/),
+> [npm](https://www.npmjs.com/package/reflowkit).
 
 ---
 

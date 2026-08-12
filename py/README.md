@@ -49,6 +49,6 @@ pytest
 
 Prompt-too-long recovery, media-too-large recovery, and bounded
 truncation recovery are real and tested, with default classifiers for
-common Anthropic/OpenAI-shaped errors. Not yet published to PyPI — the
-bare `reflow` name is taken by an unrelated abandoned package, so this
-publishes as `reflowkit` instead, same as the TypeScript package.
+common Anthropic/OpenAI-shaped errors. Published as
+[`reflowkit`](https://pypi.org/project/reflowkit/) on PyPI — the bare
+`reflow` name is taken by an unrelated abandoned package.
