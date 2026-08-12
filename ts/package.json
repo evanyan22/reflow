@@ -1,6 +1,6 @@
 {
   "name": "reflowkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reactive recovery for LLM API calls — compact-and-retry, strip-and-retry, and truncation recovery.",
   "license": "MIT",
   "type": "module",
